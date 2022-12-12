@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # Atom npm Package Generator
 
 This Yeoman generator creates a default directory layout for an npm written in
